@@ -1,0 +1,61 @@
+# Theories to Questions
+
+Ok, so we can move from questions to theories. How do we go the other way around, and why is this important?
+
+::: callout-alert
+# Theories to Questions
+:::
+
+## Answers to Questions Separate Theories 
+
+If you propose things *work* differently than the field currently believes, you're going to have to convince the field. And, it is important to remember – the field doesn't like to change its mind. Researchers have reputations, and grants, that they intend to retain. Even if your work is simply directed at the concepts, there will be *human-level* resistance to what you're proposing.
+
+And so, if you've got this uphill battle to change the minds of your discipline, how do you do it most effectively?
+
+::: callout-note
+## Changing Minds: Part 1
+
+How do you best structure your argument/book to be most effective at changing the minds of your field? How do you make it so they *have* *to* engage with what you've written? What is the role of logical deduction in this process?
+:::
+
+## Theory $\rightarrow$ Hypotheses
+
+> *"OK, I've got this theory. I think that {these things} {do this} {because of} {when that}."*
+
+**Now what?**
+
+The process to go from your observations to the most likely set of explanations — the process of abduction — is one of the steps that produces the statement above 👆.
+
+But, it cannot be the only step — if that were the only step, we wouldn't be social scientists; we'd be evangelists and zealots.
+
+Because it is entirely within your own head it is fallible. Our minds' ability to abstract events to patternss in amazing, but by its very structure imprecise, and is it entirely possible that we might learn the wrong generalization, or abduct what seems to be a reasonable explanation but that is incorrect.
+
+After all, when we're seeing some real-world event we're seeing it within a limited context frame and that context shapes how or what might occur. Although there are many, many explanations for why things occur, there is almost certainly a boundless set of possible context frames that we could have been within!
+
+## Deductive Validity 
+
+**Position**: Your goal, at some point in your dissertation, is to produce a prediction that would be true *if and only if* the theory you believe to be the true explanation were in fact true.
+
+Jeez. Let's unpack that.
+
+First, recall that you're working within the *enterprise* of academic, and probably social scientific research. The people who are working within the field carry forward the beliefs of their advisers (and their advisers' advisers...). And so, there are a lot of beliefs out there — a lot of explanations why things happened the way they did.
+
+In your dissertation work, and in the work that follows, you're taking a position on how the world works. That's your job as a member of this academy. But, your position is just one of many possible positions; and, certainly, there will be other people who hold those other positions. They're not straw-people positions, and there's little value in positioning your work against such a staged argument.
+
+::: callout-note
+# Examples of Differing Positions 
+
+-   Misinformation and disinformation are scourges that fundimentally threatens democratic accountability.
+
+-   We've seen clear examples of the harms of misinformation and disinformation through the last several global election cycles. But, these are disequilibrium events and society will learn and develop ways to avoid such events in future states.
+:::
+
+Only one of those positions can be true — either we're screwed, or there are relatively minor fixes that we can enforce that will pull us out of this morass. Which of these states of the world are we in, and how would you know?
+
+**Ask yourselves: "Why?"** Why might we be fundamentally screwed? What about humans' interactions with decentralized media create this deep risk? **OR**, Why are there controls that we can actuate that are likely to control the worst machinations of this political system?
+
+::: callout-note
+## Changing Minds: Part 2
+
+How do you best structure your career to be most effective at changing the minds of your field? How do you make it so they *can* engage with what you've written?
+:::

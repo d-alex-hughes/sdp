@@ -1,0 +1,144 @@
+# Finding Theories
+
+-   The goal in this section is to move from the questions that we're researching to the theories that are running through our fields.
+-   This is a strong claim, but no matter your field, whether it is a natural science, a social science, a journalistic field there are theories that are being looked at.
+
+## Research Questions
+
+Many of us organize our research, and our talks which I saw early last week, around research questions. They keep us from getting *lost*, they keep our work *organized,* the focus us on tasks that we can actually complete.
+
+But, you're doing the ✨*fun ✨* work of your dissertation right now! You're taking on three, or more, different tasks that are all organized around a theme. That theme *might as well be* a major theory in your field!
+
+This is how **books** come to be, and your dissertation is really a first draft of your tenure book.
+
+## Breakout One
+
+::: callout-note
+## Breakout 1
+
+-   Remind yourselves, what is the role of theory building in the cumulation of knowledge in the social sciences?
+
+-   Is it important that what we know accumulates? If so, why? If not, why not?
+
+-   What is your favorite social sciences textbook?
+:::
+
+## Can AI Accumulate Knowledge?
+
+-   Ralph, this morning, contended that it is, or might be possible, for AI to accumulate knowledge. That there is a way to systematize the process that we undertake as social scientists: to observe, abduct, place against known theory, and then produce hypotheses, and test those hypotheses?
+
+-   Do you agree? Where are the points that you think an AI system is likely to be especially helpful in this process? Where are the points that you think an AI system is likely to be especially *unhelpful* in the process?
+
+-   If AI *can* accumulate knowledge, and then produce new knowledge, should you be in this field — academics — right now? Should you be in this room right now?
+
+-   I'm going to argue "Yes" even if AI can accumulate knowledge there's an important role for us — what the machines have access to are probabilistic sets of words that belong together or in conversation; they can help us to understand what has been *done* and what has been *thought* — but it does not have the capabilities (yet) to intervene and run trials or think counterfactually. *At least for a little while, we're still ahead of the machines.*
+
+### Discussion Questions
+
+::: callout-note
+# 1. Research Questions
+
+Take a five minutes to write down for yourselves (it is OK for you to use a LLM):
+
+-   What are the major *questions* in your field?
+-   This might require that you think back to your field exams! Try to think not about a specific study, but questions that many people who are working on.
+
+**Examples:**
+
+1.  Why does this apple fall from this tree, rather than floating away?
+2.  Why *do*, and why *don't*, citizens participate in electoral politics?
+3.  "Misinformation"... ?
+:::
+
+What I think that we're going to see is that the major questions that exist in the disparate fields are actually quite similar! Or, at least, if you squint a little bit, the ways that we think of information access among youth in Puerto Rico have to be related to the explanations news production in Canada, and civic technology utilization in Georgia.
+
+# Answers to Research Questions are Theories!
+
+As you're moving from questions being asked, toward some more general explanation of phenomena, you're going to use our incredible, creative, human ability to explain patterns with simpler stories. We do this *all. the. time.* Learning and abstraction, which I'm actively seeing my child undertake on a daily basis, is one of the core human super powers!
+
+-   We have burned ourselves on a fire ring at a campsight on the California coast. How quickly we're able to infer that a fire ring with an open flame in the Sierra Nevada mountains has the same properties, and will cause the same result, *despite* being an entirely different location, context, elevation, and flame!
+
+-   We have eaten cereal with cow's milk that has a certain off smell and feel ill afterwards. How quickly we are able to recognize that smell, and avoid products that have such a smell in the future. And! We're able to distinguish that smell of soured milk from the smells of cheeses, yogurts, and other similar cultured milk products.
+
+-   We have grown up in the midwestern parts of the United States (or possibly other places, too) and know that when the weather changes rapidly from sunny to overcast, there is rain that is imminent.
+
+::: callout-note
+## Pattern Learning
+
+-   How can we learn patterns so quickly?
+
+-   Are we ever wrong when we're learning these patterns? Are there times that the general rule that we see is incorrect? To broad? Too narrow?
+:::
+
+Are we generalizing knowledge — called *induction —* or, are we proposing what we believe to be the most likely explanation — called *abduction* ([Charles Sanders Pierce](https://plato.stanford.edu/entries/peirce/))?
+
+::: callout-note
+# 2. Answers to Questions
+
+Take five more minutes.
+
+-   What are the possible answers to these questions?
+-   Which of these — research questions, or theories — are easier for you to find? Why?
+:::
+
+::: callout-tip
+# Theoretical Answers
+
+1.  Apples fall from trees with predictable paths and rates because apples are composed partially of earth and partially of water (rather than air or fire). Since things that are composed of either earth or water belong at the center of the universe, which is the center of the Earth, they fall toward where they rightfully belong (Aristotelian explanation.)
+2.  Citizens operate subject to resource and cognitive constraints and make trade offs between action and inaction that can be understood as noisy bets made by lazy thinkers.\
+3.  ...?
+:::
+
+## How do we notice these patterns?
+
+::: callout-note
+## Breakout: Noticing Questions and Answers
+
+Take five minutes as a group to talk about: How, practically, do you go about noticing the things that are interesting research questions; or, the things that are likely explanations for answers to your research questions?
+
+Do you simply look around? Read widely in your field? Take baths and ponder?
+:::
+
+## Theories are the proposed, sometimes incomplete, answers to questions in your field!
+
+A field of economics is concerned with the question, "How do firms work?" which really means, "How can a company get the most out of its workers?"
+
+Suppose that you are a plant manager in my home state of Michigan who wants your plant to be as productive as possible.[^finding_theories-1]
+
+[^finding_theories-1]: Stretch your theory. Suppose that you're a lab manager who is managing post-docs and PhD students? Stretch further, you're an Associate Dean who wants to get the most out of your School/Department.
+
+You might think that people who aren't monitored will use the time that they're not being watched to *shirk*, which is to do work that is of lower effort than you would like. (For a review of this question, see [Banidera, Barankay, Rasul (2011).](./field_experiments_with_firms.pdf))
+
+**How would reduce the amount of shirking?** (Tighter monitoring? Monetary incentives for work completed? Social pressures from managers who have monetary incentives? Social rewards for people who do especially good work?)
+
+An example of solution that cannot be experimented easily? Authority.
+
+## Example: Perfect Pizza
+
+This is going to age me, but there was a glorious moment, pre-pandemic, where *Bon Appetit* had won the internet.
+
+Their YouTube had everything – star power, shiny production, and a connection to something that is important to everyone the world over – **pizza!**
+
+They conducted a series called "Making Perfect." The goal was to make, well, the *Perfect Pizza* at home.
+
+{{< video https://www.youtube.com/watch?v=STpv0aTReIw >}}
+
+## Perfect Pizza
+
+What are the component of a perfect pizza?
+
+Let's think through that exercise together. What would make the *perfect pizza?* How would you approach it? How would you describe it?
+
+## Finding Theories that Matter 
+
+Here's the hard part: When, or what, is the tradeoff between (a) working within an existing theory and finding (another) "novel" test of that theory that is going to contribute to the cumulation of knowledge (which Ralph said rather woefully are written, but never cited); or, (b) challenge a theory to produce a revision, change, adaptation, or "notch" in the evidence consistent with the theory that is meaningful?
+
+::: callout-note
+# Open Discussion
+
+Should you try and *time* your contribution so that you're working on something that is hot when you're on the market? So you can be a superstar on that junior search cycle?
+
+Or, should you work on the theories that you think are interesting, no matter if they're in a backwaters that are largely irrelevant to your field?
+
+What are the tradeoffs that you see as 4th year PhD?
+:::

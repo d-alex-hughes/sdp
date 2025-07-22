@@ -1,0 +1,41 @@
+# Ideal Experiments
+
+Here's the thing — you're probably a 4th year PhD student. Which means... 💸 👻 🏦
+
+... and running field experiments in the real world is *mind-bendingly expensive*. For example, experiments that Alex has run in Guatemala (\$25M total program; \$1M experiment) and Pennsylvania (\$2M total cost)
+
+What's more — you've probably already proposed your work to your advisers and the worst outcome that could happen from this Summer Doctoral Program is that you return to your institution, throw out your work, and blame Eric, Ralph, David and Kimmy.
+
+**But.** Can you imagine the ✨**ideal experiments ✨** that you could conduct that would be consistent with your theory and inconsistent with other theories?
+
+## Ideal Experiment 
+
+The [**ideal experiment**](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxha21yNXV4djg5NXh5bG9uMHpnNmhoOGV1MWt3aXhnM2h3Y3BwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/RtFGrL8Fn2xutS0qmN/giphy.gif) is the experiment that you would conduct with:
+
+-   Unlimited Time
+
+-   Perfect Measurement
+
+-   Infinite Budget
+
+There's a part of me that says, "Well, that's easy if you've got unlimited resources and perfect measurement." But, trust me, *it isn't.*..
+
+The ideal experiment has to produce evidence that is consistent with one theory but not consistent with any other theory; and it has to do so *cleanly*, that is, without complex causes (where more than one feature moves at at time).
+
+🙅The ideal experiment is *not* concerned with: 🙅
+
+-   **Practical considerations**: it would be hard to...
+
+-   **Normative considerations**: it would create compensatory harm if one unit got {this} while the other unit got {that}
+
+-   **Statistical considerations**: your focus is on the design and the relationship between the outcomes, intervention, and theory... not on getting the model right. Hand-wave that model right out the door.
+
+## Failure Points in Ideal Experiments 
+
+-   **Your theory isn't precise enough.** While you've been building your explanation for "why" the world works, you've elided parts of the thinking that are necessary to produce a whole story. Imprecise theory produces bulky tests that don't actually have crisp predictions.
+
+-   **Your theory overlaps too much with existing theories.** If you cannot produce a prediction that would be true *if and only if* your theory were correct, you haven't made a contribution to the field!
+
+-   **The other theories aren't precise enough*.*** It isn't a problem of your creation, but it *is* a problem that you've got to address. If the existing theory ("Prospect Theory" anyone?) isn't sufficiently well developed, then it will overlap with your work.
+
+-   **You don't know all the theories out there**. This is hard, you're a burgeoning professional, but you don't know everything! (Neither do I; Ralph and Eric may).

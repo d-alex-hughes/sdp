@@ -1,0 +1,67 @@
+# Causal Implications
+
+Here's a hot take for you:
+
+🔥 Every (good) theory has a causal implication. 🔥
+
+## What does it mean to cause? 
+
+There is a sub-field of language model training that is concerned with teaching machines to learn what "cause" is. As it turns out... it continues to be a difficult task for machines to figure out.
+
+As an example:
+
+> Lauren and Jane work for the same company. They each need to use a computer for work sometimes. Unfortunately, the computer isn't very powerful. If two people are logged on at the same time, it usually crashes. So the company decided to institute an official policy. It declared that Lauren would be the only one permitted to use the computer in the mornings and that Jane would be the only one permitted to use the computer in the afternoons. As expected, Lauren logged on the computer the next day at 9:00 am. But Jane decided to disobey the official policy. She also logged on at 9:00 am. The computer crashed immediately. Did Jane cause the computer to crash?
+
+How do we think, as humans, think about this?
+
+## Causal Thinking 
+
+::: callout-note
+## What does it mean for an action to *cause* an outcome?
+
+Literally, that's the prompt. What does it mean to cause?
+
+Take five minutes to discuss that, and we'll come back.
+:::
+
+### Judea Pearl and DAGs
+
+One of the systems, which Ralph has talked about this morning, is DAG thinking — derived from Judea Pearl's *Causality (2000)?* In this line of thinking, you write down all the concepts in the world, and you draw the "geometry" of what you understand to cause what. Once you write those down, you can reason about what you need to measure, and... *Bob's Your Uncle.*
+
+-   What are the limitations of this approach?
+
+### Counterfactual Reasoning ([Neyman (1923)](https://www.jstor.org/stable/2245382?seq=1), [Lewis (1973)](https://web.archive.org/web/20170809031235id_/http://andrewmbailey.com/dkl/Counterfactuals_Comparative.pdf), [Rubin (1978)](https://www.jstor.org/stable/pdf/2958688))
+
+We employ counterfactual reasoning. This means that we think about one circumstance where action would be taken, and we think about the *very same* outcome when the action would not be taken. In this sense, there are two states of the world that are exactly the same but with only a single difference.
+
+If outcomes are different between these two states of the world, then we say that the action causes the outcome.
+
+::: callout-note
+# What is the problem with this line of reasoning? 
+
+-   Do you have a problem with this way of thinking?
+
+-   Do you have a problem with using this as a way of producing evidence that is consistent with one theory and inconsistent with another theory?
+
+-   How is what we have identified as a problem, actually an opportunity for us as academics to produce knowledge?
+:::
+
+## Finding Causes 
+
+How do we go about finding the antecedents (causes) and their consequences (effects)?
+
+These are the if-then squiggly lines that Ralph alluded to. The sets of connections that undergird the realty that we exist within.
+
+![What happens when we take things apart?](duck.png){fig-alt="An image that shows a duck, with gears inside, as a tongue in cheek joke about understanding the world." fig-align="center"}
+
+## Theories that Don't Have Causal Implications 
+
+-   **Public Health?** Think about [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher#Contentious_views_on_smoking) — would you die for your theory? He did! Public Health (not a social science, but instead a medical field that represents the worst of the social sciences...) talks in terms of correlates of; determinants of; associates with.
+
+![John Snow's Map of London, Showing Outbreaks of Choleara](snow_map.jpeg){fig-alt="John Snow's Map of London, Showing Outbreaks of Choleara"}
+
+::: callout-note
+## Discussion Question
+
+Look back to the theories that you wrote down earlier — are there any of these, for which, you cannot imagine a causal implication?
+:::
