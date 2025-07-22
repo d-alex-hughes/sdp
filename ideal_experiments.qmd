@@ -39,3 +39,21 @@ The ideal experiment has to produce evidence that is consistent with one theory 
 -   **The other theories aren't precise enough*.*** It isn't a problem of your creation, but it *is* a problem that you've got to address. If the existing theory ("Prospect Theory" anyone?) isn't sufficiently well developed, then it will overlap with your work.
 
 -   **You don't know all the theories out there**. This is hard, you're a burgeoning professional, but you don't know everything! (Neither do I; Ralph and Eric may).
+
+## Applications of Ideal Experiments Thinking in Social Sciences 
+
+This morning, Ralph 👏clapped out👏 computer scientists who step into social scientific work. I'm with him on this! Another smart, math-y CS student who discovers graph theory....
+
+But, let me give an example of someone who has done this **very well**.
+
+::: callout-note
+## Application of the Thinking Cycle to Other's Work
+
+[Dan Jurafsky](https://web.stanford.edu/~jurafsky/) (incidentally a Berkeley PhD, now Full at Stanford with 100,000 cites) asked the question, "Why are Black drivers detained at higher rates in Oakland than white drivers?"
+
+Can you think through the entire cycle: research question, possible theories and an experiment that would produce evidence that would separate those theories?
+:::
+
+::: callout-note
+## Apply to Your Work
+:::
